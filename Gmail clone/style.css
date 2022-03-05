@@ -121,7 +121,7 @@ body {
 }
 .email-list {
 flex: 1;
-overflow: scroll;
+overflow: hidden;
 }
 .emailList-settings {
     position: sticky;
